@@ -4,8 +4,6 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenp1ZXM3Y3czbGJ4b2w1ZnFhM3E5c3NsanEzZ3ByYW0xaGRjdjExcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XgMUfV5i9fTyzVxVE0/giphy.gif)"/>
-</div>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xUNd9YbZxUobLqOKhW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/japan-your-name-makoto-shinkai-xUNd9YbZxUobLqOKhW">via GIPHY</a></p>
 
 ###
