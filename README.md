@@ -5,7 +5,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <h2 align="left">About Me</h2>
-<p align="left">I'm Rio Aryadi, usually know as Horizen.</p>
+<p align="left">I'm Horizen, usually know as Rio Aryadi.</p>
 <p align="left">💼 I work as an administrative staff, and now I'm exploring the world of IT.</p>
 <p align="left">👨‍💻 Currently learning the basics of programming.</p>
 <p align="left"></p>
