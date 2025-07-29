@@ -7,7 +7,7 @@
 <hr>
 
 <h2>🧍 About Me</h2>
-<p>I'm Horizen, usually known as <strong>Rio Aryadi</strong>.</p>
+<p>I'm Rio Aryadi, usually known as <strong>Horizen</strong>.</p>
 
 <ul>
   <li>💼 I work as an administrative staff, and now I'm exploring the world of IT.</li>
