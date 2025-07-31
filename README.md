@@ -47,8 +47,8 @@
 
 <h2>📬 Contact</h2>
 <p>
-  <a href="https://instagram.com/rioaryadii_19" target="_blank">
-    <img src="https://img.shields.io/badge/@rioaryadii__19-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/horizenn_" target="_blank">
+    <img src="https://img.shields.io/badge/@horizenn__-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
 
