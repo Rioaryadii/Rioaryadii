@@ -16,6 +16,14 @@
 
 <hr>
 
+<h2>🎧 Spotify - Last Listening</h2>
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31uu4mv3z7tx6haeu3pz3xz7vonm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+</p>
+
+<hr>
+
 <h2>🛠️ Tech Stack</h2>
 
 <p>
@@ -24,14 +32,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
-
-<hr>
-
-<h2>🎧 Spotify - Last Listening</h2>
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31uu4mv3z7tx6haeu3pz3xz7vonm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
 <hr>
